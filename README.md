@@ -6,7 +6,11 @@ Hi! I'm Miranda.
 
 Welcome to my portfolio! You can check out some of my projects here.
 
-## 🛠️ Projects
+## 🛠️ Tools
+
+- Languages: SQL, Python, R
+- Database: MySQL
+- Visualization: Tableau
 
 ## 👋🏼 Connect With Me
 

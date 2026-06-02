@@ -10,7 +10,13 @@ I’m particularly interested in the intersection of data and customer behavior 
 
 ## 📚 Projects
 
-Welcome to my portfolio! You can check out some of my projects here.
+Welcome to my portfolio!
+
+| Project Link  | Completion Date | Area of Analysis  | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Market Intelligence & Pricing Strategy for Athena Softworks  | February 2026 | Market Analysis, Customer Segementation, Pricing  | Python (pandas, numpy, matplotlib, sklearn, seaborn)  | Applied factor analysis, K-means clustering, regression, and Gabor-Granger pricing methods to identify customer segments and recommend data-driven acquisition and pricing strategies. |
+| Customer Segmentation & Insights Dashboard for TechSpace | February 2026  | Dashboarding, Customer Behavior Analysis, Customer Segmentation, KPI Analysis  | Tableau  | Developed an interactive dashboard analyzing customer behavior, segmentation, and KPIs (repeat rate, revenue, profit) to provide actionable opportunities for marketing optimization. |
+| Database Analysis & Customer Retention Insights for Dognition | October 2025 | Database Audit, User Behavior Analysis, Retention Analysis | SQL (CTEs, JOINS, aggregations, CASE-based logic, subqueries, filtering, grouped analysis)  | Queried and cleaned large datasets using CTEs, joins, and window functions to generate business insights into user behavior patterns and retention trends for a pet assessment platform.  |
 
 ## 🛠️ Tools
 

@@ -14,6 +14,8 @@ Welcome to my portfolio! You can check out some of my projects here.
 
 
 
+Created with a template from [Katie Huang](https://github.com/katiehuangx)!
+
 
 <!--
 **mirandaaochi/mirandaaochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

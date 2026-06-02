@@ -1,6 +1,12 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-Hi! I'm Miranda. 
+Hi, I'm Miranda!
+
+I’m a recent graduate of Duke University’s Fuqua School of Business, where I earned a Master of Science in Quantitative Management (Business Analytics) with a focus on marketing. I also hold a B.A. in Data Science from UC Berkeley, with an emphasis on human behavior and psychology.
+
+I have experience in data analysis and customer insights, translating complex data into actionable business decisions.
+
+I’m particularly interested in the intersection of data and customer behavior and am passionate about using analytics to help companies better understand and serve their customers.
 
 ## 📚 Projects
 
@@ -18,7 +24,7 @@ Welcome to my portfolio! You can check out some of my projects here.
 
 
 
-Created with a template from [Katie Huang](https://github.com/katiehuangx)!
+This portfolio was created with a template from [Katie Huang](https://github.com/katiehuangx)!
 
 
 <!--

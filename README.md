@@ -1,4 +1,19 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introducing Myself
+
+Hi! I'm Miranda. 
+
+## 📚 Projects
+
+Welcome to my portfolio! You can check out some of my projects here.
+
+## 🛠️ Projects
+
+## 👋🏼 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/miranda-aochi/)
+
+
+
 
 <!--
 **mirandaaochi/mirandaaochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,6 +12,8 @@ I’m particularly interested in the intersection of data and customer behavior 
 
 Welcome to my portfolio!
 
+Please note that due to privacy constraints, code for these projects cannot be shared.
+
 | Project Link  | Completion Date | Area of Analysis  | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Video Game Acquisition & Pricing Strategy Analysis for Athena Softworks](https://github.com/mirandaaochi/Video-Game-Acquisition-Pricing-Strategy-Analysis/tree/main) | February 2026 | Market Analysis, Customer Segmentation, Pricing Strategy  | Python (pandas, numpy, matplotlib, sklearn, seaborn)  | Applied factor analysis, K-means clustering, regression, and Gabor-Granger pricing methods to identify customer segments and recommend data-driven acquisition and pricing strategies. |
